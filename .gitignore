@@ -1,7 +1,6 @@
-# Ignore Python virtual environment folders
+CheatSheet/
 venv/
 ENV/
 env/
 .venv/
 .python_env/
-CheatSheet/
